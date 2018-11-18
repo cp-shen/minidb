@@ -1,7 +1,7 @@
 # Minidb
 This is a project aimed to build a really simple sql parser and 
 relational database based on 
-[halfvim/minidb](gihub.com/halfvim/minidb) ,  
+[halfvim/minidb](https://github.com/halfvim/minidb) ,  
 with the purpose of learning the fundamental of database system in 
 the course of my university.
 
